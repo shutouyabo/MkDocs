@@ -147,13 +147,6 @@ plugins:
             群晖 NAS: Synology NAS
             技术流: Flujo técnico
             一些小技巧: Algunos consejos y trucos
-        - locale: ar
-          name: اللغة العربية
-          build: true
-          site_description: اطلع على كل شيء واندمج بكل شيء.
-          copyright: حقوق النشر © 2015 - 2023 بواسطة باور | <a href="https://beian.miit.gov.cn\"> رقم ترخيص ICP 20014898 في قوانغدونغ </a>
-          nav_translations:
-
 
   - search
   - minify:
