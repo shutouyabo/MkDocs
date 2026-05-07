@@ -1,7 +1,7 @@
-site_name: Power's Wiki
-site_description: 博览万物，融会贯通。
-site_url: https://wiki-power.com/
-repo_url: https://github.com/linyuxuanlin/Wiki_MkDocs
+site_name: 杂志大全
+site_description: 博览万书
+site_url: https://mkdocs.zhihu.blog/
+repo_url: https://github.com/shutouyabo/MkDocs
 #remote_name: linyuxuanlin/Wiki_MkDocs
 edit_uri: edit/main/docs/ #
 
