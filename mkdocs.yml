@@ -98,9 +98,7 @@ plugins:
 
 extra:
   alternate:
-    - name: 简体中文
-      link: /
-      lang: zh
+
   generator: false
   analytics:
     provider: google
