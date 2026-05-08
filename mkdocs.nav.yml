@@ -60,37 +60,16 @@ nav:
       - 折腾不止:
           - 自托管 Self-Host:
               - 搭建属于自己的HomeLab.md
-              - 自托管应用收藏（Docker）:
-              #- 掌握自己的数据权.md
-          - 群晖 NAS:
           - 技术流:
               - 把回忆放心交给GooglePhotos.md
           - 一些小技巧:
               - 开启Chrome（Edge）多线程下载.md
-              - Git配置代理.md
 
       #- 杂七杂八:
       #    - 机器人队行政:
-      #        - 四校交流-策划案.md
-      #        - 四校交流-策划案-正式.md
-      #        - 团队知识库的搭建.md
-      #        - 团队影像资源管理.md
-      #        - 大扫除-经验模板.md
-      #        - 校门口车辆放行-流程.md
       #        - 参观实验室-经验模板.md
-      #        - 动员大会-经验总结.md
-      #        - 换届大会-经验总结.md
-      #        - 破冰活动-经验总结.md
-      #        - 出展活动-经验总结.md
       #    - PM:
       #        - 产品经理的日常.md
-      #        - 中台的概念.md
-      #        - 画图基础.md
-      #        - 智能硬件产品经理的技术要求.md
-      #        - 如何撰写一份BRD.md
-      #        - 软件开发中的注意事项.md
-      #        - 专业与分工.md
-      #        - 关于复盘.md
 
 
 
@@ -101,19 +80,7 @@ nav:
 
 ###
 
-#  archive：
-# - archive/无人驾驶比赛.md
-# - archive/硬件模块.md
-# - archive/STM32模块设计-LED.md
 
 #  unlist：
-# - unlist/电源设计-LDO跳变抑制能力对比测试记录.md
 # - unlist/团队知识库搭建记录-DokuWiki.md
 
-
-#  preview
-# - 我是如何做数据容灾的.md
-# - 如何用Markdown写学术论文.md
-# - AD基本操作-PCB绘制.md
-# - AD基本操作-库文件绘制.md
-# - JetsonNano系列-入坑.md
