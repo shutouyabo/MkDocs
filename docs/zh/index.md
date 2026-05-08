@@ -4,7 +4,7 @@ hide:
   - navigation
   - toc
 ---
-# Power's Wiki
+# 杂志大全
 
 <!--  一个不会讲故事的攻城狮，算不上一个很酷的产品汪~-->
 
@@ -24,7 +24,7 @@ hide:
 
 > 博览万书，融会贯通。
 
-Hi there~ 欢迎来到我的知识库。
+Hi there~ 欢迎来到我的杂志大全知识库。
 
 [![badge](https://img.shields.io/badge/知识库-Wiki-34ABE0?&style=flat-square){ loading=lazy }](https://wiki-power.com/)
 [![badge](https://img.shields.io/badge/友链%20%26%20导航站-Nav-yellow?&style=flat-square){ loading=lazy }](https://nav.wiki-power.com/)
