@@ -35,14 +35,12 @@ nav:
               - 自制CMSIS-DAP.md
               # - X86平台的硬件测试.md
   - 嵌入式:
-      - 嵌入式开发:
-          - Arduino & 杂项:
-              - 麦轮小车.md
-      - 软件开发:
-          - DOCKER:
-              - 将应用封装为Docker容器.md
-          - 杂七杂八:
-              - 机器视觉入门.md
+      - Arduino & 杂项:
+          - 麦轮小车.md
+      - DOCKER:
+          - 将应用封装为Docker容器.md
+      - 杂七杂八:
+          - 机器视觉入门.md
   - 生活:
       - 生活琐记:
           - LIFEHACK:
