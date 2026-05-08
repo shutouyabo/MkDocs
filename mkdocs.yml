@@ -65,12 +65,6 @@ plugins:
           site_description: To have an extensive knowledge of all things and integrate them into a coherent whole.
           copyright: Copyright &copy; 2015 - 2023 by Power | <a href="https://beian.miit.gov.cn"> ICP License No. 20014898 in Guangdong </a>
           nav_translations:
-        - locale: es
-          name: Español
-          build: true
-          site_description: Abarcar todo, integrar todo.
-          copyright: Derechos de autor &copy; 2015 - 2023 por Power | <a href="https://beian.miit.gov.cn"> Número de registro ICP 20014898 en Guangdong </a>
-          nav_translations:
             
             
           
