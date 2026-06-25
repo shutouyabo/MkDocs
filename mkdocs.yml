@@ -33,13 +33,13 @@ theme:
   features:
     - content.code.copy # 代码块复制按钮
     - content.action.edit # 文章编辑按钮
-    - navigation.instant # Instant loading，像个单页应用
+    #- navigation.instant # Instant loading，像个单页应用
     - navigation.tracking # Anchor tracking
     - navigation.tabs # 导航栏
     - navigation.footer # 上一篇 / 下一篇导航按钮
     #- navigation.tabs.sticky # 导航栏不随页面滚动隐藏
     - navigation.sections # 侧边栏分组显示
-    #- navigation.expand # 导航栏自动展开
+    - navigation.expand # 导航栏自动展开
     - navigation.indexes # 组标题有专属页面
     - toc.follow # 目录自动跟随
     - navigation.top # 返回顶部按钮
@@ -59,9 +59,7 @@ plugins:
           default: true
           name: 简体中文
           build: true
-            
-            
-          
+
 
   - search
   - minify:
